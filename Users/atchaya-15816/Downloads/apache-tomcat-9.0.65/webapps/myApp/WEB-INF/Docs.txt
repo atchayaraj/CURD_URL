@@ -1,0 +1,14 @@
+HTTP URL REQUEST :- URL CONNECTION IN SERVLET
+https://www.myintervals.com/forum/discussion/633/java-servlet-and-api-response/
+
+-->  to display "create Post" button in same page where posts data display 
+     --> set content type ("text/html") and enter the tags to create respective button within the println();
+
+--> by using inputstream we can fetch data from the database through URL
+--> by using outputstrean we can add data to the data base
+--> i find an error while "replaceAll()" in "reader.readline()"
+--> in mac, while compile the file, we should add multiple "jar file" at the time of compiling command.
+    ex : javac -cp /dir/.jar:/dir/.jar:/dir/.jar .java
+
+--> XSS attacks:-
+    https://www.codejava.net/java-se/networking/java-urlconnection-and-httpurlconnection-examples#SetRequestHeader 
